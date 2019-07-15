@@ -1,0 +1,3 @@
+ptest==1.9.5
+selenium==3.6.0
+violent-webdriver==1.0.27
